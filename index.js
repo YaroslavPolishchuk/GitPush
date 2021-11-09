@@ -1,1 +1,1 @@
-console.debug('Hello from ')
+console.debug('Hello from docker')
