@@ -1,4 +1,4 @@
 FROM node:16
-WORKDIR /docker pratice 
+WORKDIR /demo-git 
 COPY . .
 CMD [ "node", "index.js" ]
