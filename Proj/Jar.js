@@ -1,3 +1,3 @@
 function newfunc(){
-    console.log("F")
+    console.log("Fuck")
 }
